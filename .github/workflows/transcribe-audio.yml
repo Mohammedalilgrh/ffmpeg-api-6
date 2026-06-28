@@ -1,8 +1,3 @@
-# ============================================================================
-# Transcribe Audio Workflow - Speech-to-Text + Audio Analysis
-# ============================================================================
-# Uses: whisper.cpp for fast STT + FFprobe/FFmpeg for audio analysis
-# ============================================================================
 name: Transcribe Audio
 on:
   workflow_dispatch:
